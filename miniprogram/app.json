@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/set/set",
+    "pages/misic/misic",
+    "pages/story/story",
+    "pages/information/information",
+    "pages/q/q",
+    "pages/story1/story1",
+    "pages/story2/story2",
+    "pages/story3/story3"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "云开发 QuickStart",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}

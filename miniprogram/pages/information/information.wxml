@@ -1,0 +1,16 @@
+<view> 
+<image class='background' src="../../image/night.8.jpg"></image> 
+</view>>
+<view class='header'>睡眠小贴士</view>
+<view class='words'>
+<view>斯坦福高效睡眠法</view>
+</view>
+<view class='ll'>
+<view >·调节体温的方法</view>
+<view>1、入睡前90分钟沐浴</view>
+<view>2、足浴泡脚</view>
+<view>3、调节室温至20-25摄氏度</view>
+<view>·调节大脑的方法</view>
+<view>1、放空大脑，可以看无聊的东西，切忌看刺激的场面</view>
+<view>2、数羊</view>
+</view>

@@ -1,0 +1,14 @@
+/* miniprogram/pages/story1/story1.wxss */
+.background {
+  width: 100%;
+  height: 100%;
+  position:fixed; 
+  background-size:100% 100%;
+  z-index: -1;
+}
+.header{
+  font-size:45px;
+  color:bisque;
+  text-align:center;
+  margin:55px;
+}

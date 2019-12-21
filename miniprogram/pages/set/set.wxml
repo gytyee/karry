@@ -1,0 +1,11 @@
+<view> 
+<image class='background' src="../../image/nigh.7.jpg"></image> 
+</view>
+<view class='word1'>我的睡眠时间</view>
+<view class="inp">
+<input bindinput="input1" class='set'></input>
+<text>:</text>
+<input bindinput="input2" class='set'></input>
+</view>
+<button bindtap="onLoad"class='save'>保存</button>
+<button bindtap='jump1' class='save'>取消</button>

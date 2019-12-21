@@ -1,0 +1,21 @@
+.header{
+  font-size:32px;
+  color:bisque;
+  text-align:center;
+  margin:20px;
+}
+.background {
+  width: 100%;
+  height: 100%;
+  position:fixed; 
+  background-size:100% 100%;
+  z-index: -1;
+}
+.set{
+  margin:200px;
+  color:blanchedalmond
+}
+.two{
+  margin-top:10px;
+  color:blanchedalmond
+}

@@ -1,0 +1,10 @@
+
+<view> 
+<image class='background' src="../../image/night.6.jpeg"></image> 
+</view>
+<view class="header">助眠神器</view>
+<button bindtap='jumpa' class="two">小贴士</button>
+<button bindtap='jumpb' class="two">小故事</button>
+<button bindtap='jump' class="set">进入我的睡眠时间</button>
+
+

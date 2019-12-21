@@ -1,0 +1,9 @@
+<view> 
+<image class='background' src="../../image/night.2.jpg"></image> 
+</view>>
+<view class='header'>
+</view>
+<button class='a' bindtap='onTapDayWeather1'>哈利的毛衣</button>
+<button class='a'bindtap='onTapDayWeather2'>傻小熊种萝卜</button>
+<button class='a' bindtap='onTapDayWeather3'>米米的新衣</button>
+<button bindtap='onTapDayWeather4'>返回首页</button>

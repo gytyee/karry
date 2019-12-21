@@ -1,0 +1,4 @@
+<view> 
+<image class='background'src="../../image/night.3.jpg"></image> 
+</view>>
+<button type="primary" bindtap="audioPause">暂停</ button>
