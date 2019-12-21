@@ -1,17 +1,6 @@
-/*
-原版作者: 张林羽觐
-
-由于新版arduino IDE for mCookie中对SHT2x.h和ESP8266.h进行了修改
-因此对原有代码进行修改 不需要任何外部头文件
-*/
-
-/**
- * 需要做替换的部分!!!!!!!!!
- * 
-*/
-#define SSID        "vivo S1 Pro" //改为你的热点名称, 不要有中文
-#define PASSWORD    "2468776998"//改为你的WiFi密码Wi-Fi密码
-#define DEVICEID    "577134872" //OneNet上的设备ID
+#define SSID        "vivo S1 Pro" 
+#define PASSWORD    "2468776998"
+#define DEVICEID    "577134872" 
 String apiKey = "XWZTpNeRkbdFJl9CqOEyQBicEuM= ";//与你的设备绑定的APIKey
 #include <U8glib.h>
 const unsigned char PROGMEM dao[] = {
